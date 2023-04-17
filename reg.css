@@ -1,0 +1,25 @@
+body{
+    top: 20cm;
+    bottom: 20cm;
+    
+    margin: 50px 30px;
+}
+form{
+    background-color: aliceblue;
+    box-shadow: 0 8px 32px 0 rgb(13, 13, 13);
+    height: 90%;
+    width: 50%;
+
+
+    padding: 10px 20px 10px 20px;
+
+   
+    border-radius: 17px;
+}
+td{
+    font-size: 20px;
+    color: black;
+    margin-left: 10%;
+    opacity: 0.8;
+    text-shadow: 2px 2px 4px rgba(0,0,0,.2);
+}
